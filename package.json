@@ -1,0 +1,26 @@
+{
+"name": "wangboyushigehaobaobao",
+"version": "1.0.0",
+"description": "We welcome contributions from the community! Whether you're a seasoned developer or new to the field, there are plenty of ways to get involved. Please refer to our contribution guidelines for more details.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/wangyiyue001/003project.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "wangyiyue001",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
